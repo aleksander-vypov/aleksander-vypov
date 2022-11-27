@@ -1,7 +1,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , &nbsp; I'm Aleksander!
 
-## And I'am a JavaScript Developer from Moscow!
+## And I'am a JavaScript Developer!
 
 - 👨‍💻 I like to write code!
 
