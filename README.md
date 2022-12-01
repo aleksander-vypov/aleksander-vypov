@@ -38,7 +38,8 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f9fbfa?logo=PostgreSQL&style=for-the-badge)](https://www.postgresql.org/)
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-f9fbfa?logo=Sequelize&style=for-the-badge)](https://sequelize.org/master/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
 
 ## 🧠 I’m currently learning:
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
+[![NestJS](https://img.shields.io/badge/-Nest.js-f9fbfa?logo=NestJS&style=for-the-badge&color=critical)](https://nestjs.com/)
